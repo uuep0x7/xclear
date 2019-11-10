@@ -70,7 +70,7 @@ else
 	figlet -f block Error 
 	echo "\n[!] O usuário $nome não existe\n"
 	sleep 3
-	sh clean
+	sh xclean.sh
 fi
 ########
 
