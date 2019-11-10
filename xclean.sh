@@ -1,12 +1,8 @@
 #!/bin/sh
 
-# Dependecia Figlet
+# Dependecia Figlet & cMatrix
 
 # Devidas limpezas e configurações de pacotes #
-
-### Auth
-# script mywho.sh: versão inicial
-
 # Instale o figlet e o cmatrix
 # apt install -y figlet cmatrix
 clear
